@@ -1,4 +1,4 @@
-## Advance E-commerce website in  Laravel 7
+## E-commerce website in  Laravel
 
 ### Features :
 - ##### PWA (progressive web app)
